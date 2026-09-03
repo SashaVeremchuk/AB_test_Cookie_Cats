@@ -46,7 +46,7 @@ Cookie Cats - это популярная мобильная головолом�
               
 ***
 ## Структура проекта:
-
+```
 cookie_cats_ab_test/  
 │  
 ├── data/                             # Данные для анализа  
@@ -57,4 +57,5 @@ cookie_cats_ab_test/
 ├── EDA_cookie_cats.ipynb             # Ноутбук только с EDA  
 ├── README.md                         # Описание проекта и выводы  
 ├── pyproject.toml                    # Зависимости  
-└── uv.lock                           # Lock-файл зависимостей  
+└── uv.lock                           # Lock-файл зависимостей
+```  
